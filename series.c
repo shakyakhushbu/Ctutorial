@@ -13,3 +13,5 @@ printf(" 1/%d",num);
 printf("\nSum = 1/%d",sum+1/num);
 return 0;
 }
+
+//We have change something here in new branch
